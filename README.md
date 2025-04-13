@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamed-el-esh-portfolio-49mbv32.gamma.site/](https://mohamed-el-esh-portfolio-49mbv32.gamma.site/)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mohamed-m-el-esh-a97999283](www.linkedin.com/in/mohamed-m-el-esh-a97999283)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-m-el-esh-a97999283/)
 
 - 💬 Ask me about **Python, Flutter**
 
